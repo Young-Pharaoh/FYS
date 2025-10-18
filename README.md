@@ -66,7 +66,7 @@ Y listo, eso seria todo en cuanto a la instalacion. :D
 ## Autores ✒️
 
 * **Bejarano Santiago** - [EddyFizzio](https://github.com/EddyFizzio)
-* **Abdelfatah Tarek** - [1-Abdu](https://github.com/1-Abdu)
+* **Abdelfatah Tarek** - [Young-Pharaoh](https://github.com/Young-Pharaoh)
 * **Meza Jhon** - [JhonMeza7](https://github.com/JhonMeza7)
 
 ## Expresiones de Gratitud 🎁
